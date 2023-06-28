@@ -1,4 +1,4 @@
 # stigfinnande
-Stigfinnande i beläggningsnät 
+Stigfinnande i beläggningsnät, initialt A*/Dijkstras.
 # pathfinding
-pathfinding in occupancy grid
+pathfinding in occupancy grid, initially A*/Dijkstra's.
