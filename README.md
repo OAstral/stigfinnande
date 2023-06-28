@@ -1,2 +1,4 @@
 # stigfinnande
-Stigfinnande i beläggningsnät - pathfinding in occupancy grid
+Stigfinnande i beläggningsnät 
+#pathfinding
+pathfinding in occupancy grid
